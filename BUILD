@@ -1,7 +1,8 @@
 // json c++ rpc
 [
 { "config" : {
-   "component": "jsonrpc-cpp"
+   "component": "jsonrpc-cpp",
+   "licenses": [ "http://opensource.org/licenses/LGPL-3.0" ]
 } },
 { "cc_library": {
     "name": "jsonrpc",
