@@ -1,5 +1,5 @@
 // json c++ rpc tests
-[
+[]
 //TODO(cvanarsdale): Get cppunit working... it's autoconf files are too old
 //to compile with clang.
 //{ "cc_test": {
@@ -10,4 +10,3 @@
 //    ],
 //    "clang": { "cc_compile_args": [ "-Wno-error=self-assign" ] }
 //} }
-] 
